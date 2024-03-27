@@ -27,20 +27,23 @@ The dataset used in this project contains information about telecom customers in
 
 We achieved the following results:
 
-- Logistic Regression: [test_score : 0.7513368983957219,
+- Logistic Regression: [
+- test_score : 0.7513368983957219,
 - Classification Report:
               precision    recall  f1-score   support
 
          0.0       0.75      0.76      0.75       374
          1.0       0.76      0.74      0.75       374
 ]
-- K Nearest Neighbors Classifier: [Test_score: 0.7179144385026738,
+- K Nearest Neighbors Classifier: [
+- Test_score: 0.7179144385026738,
 - Classification Report:
               precision    recall  f1-score   support
 
          0.0       0.73      0.69      0.71       374
          1.0       0.71      0.74      0.72       374]
-- Support Vector Machines (SVM): [Test_score: 0.7513368983957219,
+- Support Vector Machines (SVM): [
+- Test_score: 0.7513368983957219,
 - Classification Report:
               precision    recall  f1-score   support
 
